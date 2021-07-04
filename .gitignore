@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# JetBrains
+.idea/
+
+# Ignore Mac DS_Store files
+.DS_Store
+
+# Build output
+build/
+
+# Env file
+.env*
+!.env.sample*
